@@ -101,3 +101,7 @@ Chrome 85 adds decode support for AVIF, an image format encoded with AV1 and sta
 
 And AppCache removal has begun.
 https://developers.google.com/web/updates/images/2020/08/browser-0.png
+https://developers.google.com/web/updates/images/2020/08/cva.jpg
+https://developers.google.com/web/updates/images/2020/08/app-shortcuts-menu-windows.png
+
+by himanshu verma

@@ -100,3 +100,4 @@ console.log(myName);
 Chrome 85 adds decode support for AVIF, an image format encoded with AV1 and standardized by the Alliance for Open Media. AVIF offers significant compression gains vs. JPEG and WebP, with a recent Netflix study showing 50% savings vs. standard JPEG and > 60% savings on 4:4:4 content.
 
 And AppCache removal has begun.
+https://developers.google.com/web/updates/images/2020/08/browser-0.png
